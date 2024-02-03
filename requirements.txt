@@ -3,3 +3,4 @@ openai
 ipykernel
 python-dotenv
 huggingface-hub
+streamlit
